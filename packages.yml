@@ -1,2 +1,3 @@
 packages:
-  - local: /Users/davem/dev/testzone_macros
+  - git: "https://github.com/davemasino/testzone_macros.git" 
+    revision: 1.0.0
